@@ -13,8 +13,8 @@ This document began as a fork of <https://github.com/nayafia/lemonade-stand>
 
 ---
 
-
 # Table of Contents
+
 1. [Donation button](#donation-button)
 2. [Bounties](#bounties)
 3. [Crowdfunding (one-time)](#crowdfunding-one-time)
@@ -32,9 +32,6 @@ This document began as a fork of <https://github.com/nayafia/lemonade-stand>
 15. [Foundations & consortiums](#foundations--consortiums)
 16. [Venture capital](#venture-capital)
 17. [Restricted license](#restricted-license)
-
-APPENDIX: [Contributing to this guide](#contributing-to-this-guide) // [License & attribution](#license-and-attribution)  
-TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemonade-stand) // [Simplified Chinese(簡體中文)](https://github.com/wizicer/FinancialSupportForOpenSource) // [Italian(italiano)](https://github.com/dakk/lemonade-stand) // [Japanese(日本語)](https://github.com/fumikito/lemonade-stand)
 
 **"personal effort" notes when a funding effort was led by an individual, not a project*
 
@@ -63,13 +60,12 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Bounties
 
-*Sometimes, projects or companies post bounties for open source work (ex. "fix this bug and collect $100"). There are several websites, listed below, that help facilitate the posting and collection of bounties.*
+List a set of development tasks with specific prices attached ("fix this bug and collect $100")
 
 #### Pros
 
 * Open to community participation
 * Money is tied to doing specific work (more like paying for service than donations)
-* Especially popular for security work
 
 #### Cons
 
@@ -89,12 +85,14 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Crowdfunding (one-time)
 
-*If you have a specific idea you'd like to implement (rather than ongoing project work), a one-time crowdfunding campaign can help raise the funds you need. Both individuals and companies might be willing to donate to your campaign.*
+If you have a specific project milestone you'd like to implement (such as the initial development and "Version 1.0" release of a typeface) a one-time crowdfunding campaign can help raise the funds you need.
+Both individuals and companies might be willing to donate to your campaign.
+This category is distinct from ongoing project work.
 
 #### Pros
 
 * Few strings attached
-* Can be easier for an individual to legally manage via, e.g. [Kickstarter](https://kickstarter.com/)
+* Can be easy for an individual to legally manage via crowdfunding platform sites like [Kickstarter](https://kickstarter.com)
 
 #### Cons
 
@@ -116,17 +114,18 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Crowdfunding (recurring)
 
-*If you'd like to fund ongoing project work, you can set up a recurring crowdfunding campaign, with a monthly or annual financial commitment that renews indefinitely (or until the donor cancels). Those who use your project regularly (including both individuals and companies) might be willing to fund your work.*
+Since a font is never done, and your living expenses are on-going, a recurring crowdfunding campaign can fund on-going project work by asking customers to make a monthly or annual financial commitment that renews indefinitely.
+Those who use your work regularly and are eager to see updates (including both individuals and companies) can fund your work.
 
 #### Pros
 
 * Few strings attached
-* Can be easier for an individual to legally manage via, e.g. [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
+* Can be easy for an individual to legally manage via crowdfunding platform sites like [Patreon](https://patreon.com), [Salt](https://salt.bountysource.com/), [Liberapay](https://liberapay.com/), [OpenCollective](https://opencollective.com), [Flattr](https://flattr.com/)
 
 #### Cons
 
 * Harder to get commitments to recurring donations (often requires preexisting brand/reputation)
-* Harder to explain concrete outcomes, perks that come with recurring donations
+* Need to explain and deliver concrete outcomes & perks that customers get for their recurring payments
 * Usually not that much money (~$1-4K monthly)
 * Companies not always comfortable donating to campaigns
 
@@ -143,7 +142,10 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Books and merchandise
 
-*If you are an expert in a domain that other people might find useful to learn about, you could write and sell a book or series of books. You can find a publisher (like O'Reilly) or self-publish. In addition to selling books, some projects sell merchandise (ex. shirts, hoodies) to support their work.*
+Self-publishing is easier than ever, and those interested in your work may like to purchase books about it.
+There is even mass-market appearl for books about type, if they make good gifts.
+
+In addition to selling books, you can sell merchandise (T-shirts, hoodies, mugs.)
 
 #### Pros
 
@@ -155,7 +157,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * Often not a significant source of revenue
 * Can distract from core development of project
-* Merchandise can have upfront costs
+* Merchandise can have up-front costs
 
 #### Case Studies
 
@@ -167,7 +169,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Advertising & sponsorships
 
-*If your project has a large audience, you can sell sponsorships to advertisers who might want to reach them. You probably have a very targeted audience (ex. if you have a Python project, you can assume your audience is likely people who are technically familiar with Python), so use that to your advantage.*
+If your project has a large audience, you can sell sponsorships to advertisers who might want to reach them.
+You probably have a very targeted audience (ex. if you have a Python project, you can assume your audience is likely people who are technically familiar with Python), so use that to your advantage.
 
 #### Pros
 
@@ -190,7 +193,11 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Get hired by a company to work on project
 
-*Companies sometimes hire individuals to do open source work. Find a company that uses the project you want to work on. Often this is a split arrangement (ex. 50% company work, 50% open source work). Alternatively, if you have an idea for a new project, find a company that would be interested in using what you produce. In these situations, having demonstrated experience you can point to will be very helpful.*
+Companies sometimes hire full-time type designers into their design team staff.
+Find a company that uses libre fonts, and contribute to them as part of the work week.
+Often this is a split arrangement (ex. 50% company work, 50% project work).
+Alternatively, if you have an idea for a new project, find a company that would be interested in using what you produce.
+In these situations, having demonstrated experience you can point to will be very helpful.
 
 #### Pros
 
@@ -202,7 +209,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 * Usually involves “getting lucky”: no clear, repeatable path to finding this arrangement
 * Project already needs to be well-known and used
-* Person not contributing to company’s bottom line, which makes them expendable
+* Person not contributing directly to company’s bottom line, which makes them expendable
 * Governance issues, company could have undue influence over project
 * Can affect project dynamics + balance
 
@@ -213,11 +220,16 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Aaron Patterson + ManageIQ and Ruby, Rails (personal effort)](http://community.redhat.com/blog/2014/09/tenderlove-joins-manageiq/)
 * [Ryan Dahl + Joyent and Node.js (opens a YouTube video) (personal effort)](http://www.youtube.com/watch?v=SAc0vQCC6UQ&t=29m20s)
 
-## Start a project while currently employed
+## Do it as a side project
 
-*Many open source projects started as employee side projects. The project might eventually outgrow the company, but starting it as a side project can be a great way to incubate the idea.*
+Many libre projects started as employee side projects.
+Starting it as a side project can be a great way to incubate the idea.
 
-*If you pursue this path, make sure you understand your company's policy on open source work. Some companies encourage employees to contribute to open source during working hours. Some might treat your open source work as a company project. Don't assume anything; ask someone at your company before starting.*
+If you pursue this path, make sure you understand your company's policy on libre culture.
+Some companies encourage employees to contribute to libre culture during working hours.
+Some might treat your libre work as a company project. 
+Some might have policies prohibiting such activity.
+Don't assume anything; ask someone at your company before starting.
 
 #### Pros
 
@@ -240,9 +252,15 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Grants
 
-*Grants are effectively large donations that do not require repayment. Oftentimes the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.*
+Grants are effectively large donations that do not require repayment.
+Often the grantmaker receives other benefits from giving you the grant, such as access to you, demonstration of impact, a report of your work, or tax benefits.
 
-*Grants can come from many places, including companies, software foundations, philanthropic foundations, and the government. The technical and legal aspects of a grant vary greatly depending on where it comes from. For example, a company might give you a "grant" but legally treat it as a consulting invoice. A philanthropic foundation can only make grants to nonprofits, so you would need to be a nonprofit yourself, or (more commonly) find a nonprofit to sponsor you. If you're unfamiliar with grants, the best way to understand how grants work is to talk to someone who has received one before. Some examples of grant recipients are listed below.*
+Grants can come from many places, including companies, software foundations, philanthropic foundations, and the government. 
+The technical and legal aspects of a grant vary greatly depending on where it comes from.
+For example, a company might give you a "grant" but legally treat it as a consulting invoice.
+A philanthropic foundation can only make grants to nonprofits, so you would need to be a nonprofit yourself, or (more commonly) find a nonprofit to sponsor you.
+If you're unfamiliar with grants, the best way to understand how grants work is to talk to someone who has received one before.
+Some examples of grant recipients are listed below.*
 
 #### Pros
 
@@ -264,11 +282,12 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Django + Mozilla Open Source Support](https://www.djangoproject.com/weblog/2015/dec/11/django-awarded-moss-grant/)
 * [Segment Open Fellowship](https://segment.com/blog/segment-open-fellowship-2017/)
 
-## Consulting
+## Work as a Typographer
 
-*Consulting can be a flexible way to fund open source work. You have more freedom to structure your time as you wish (for example, consulting 30 hrs of the week and spending 10 hrs of the week on open source work). Consultants can usually charge more for their time than salaried employees because the work is less steady, they don't receive benefits, etc. If you plan on doing this type of work regularly, you will probably want to set up an LLC (or equivalent outside of the US).*
+Working as a font user, rather than a font maker, can enable contributing to libre fonts as part of using them.
 
-*If your project is popular, you can also offer consulting & services around the project itself. For example, a client might pay you to implement the project for them, build something custom, or train them on how to use it.*
+If your project is popular, you can also offer typography consulting services around the project itself.
+For example, a client might pay you to make a WordPress theme for them, or build a brand identity that uses the font, or train them on how to use it.
 
 #### Pros
 
@@ -290,7 +309,8 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Paid support
 
-*In this model, the code is freely available, but users need to pay to receive support from the project's maintainers. That might mean charging for access to the issue tracker, office hours, a community Slack, or an SLA (service-level agreement).*
+In this model, the font is freely available, but users need to pay to receive support from the project's maintainers. 
+That might mean charging for access to the issue tracker, office hours, a community Slack, or an SLA (service-level agreement).
 
 #### Pros
 
@@ -298,7 +318,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Cons
 
-* Can be at odds with making software simple to use
+* Can be at odds with the fact that fonts are simple to use
 * Project needs to be sufficiently popular that people are willing to pay
 * Maintainers don't necessarily want to offer professional support
 
@@ -308,19 +328,25 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [Tidelift paid subscriptions](https://tidelift.com/subscription)
 * [Red Hat](https://en.wikipedia.org/wiki/Red_Hat#Business_model)
 
-## SaaS
+## Web Fonts API
 
-*SaaS means [Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service). In this model, the codebase itself can remain open source, but you offer paid services such as charging for use of a main hosted site or for handling the hosting of dedicated instances for customers. Typically, paying customers also get priority support.*
+Fonts can be offered as a Web Fonts API, a specific kind of "SaaS" ([Software as a Service](https://en.wikipedia.org/wiki/Software_as_a_service)).
+In this model, the fonts are libre, and you offer paid hosting that makes it convenient to use the fonts.
+There is currently no off-the-shelf web fonts API server software, so developing that software may be time-consuming or expensive.
+
+Typically, customers paying for SaasS also get priority support.
 
 #### Pros
 
-* Can build community around open project and make money off of services for hosting
-* Allows open source project to focus on users and as needs grow to help enterprises adopt the project
+* Can build community around a font and make money off of services for hosting
+* Allows project to focus on users and as needs grow to help businesses adopt the font
 * Can scale by number of users
 
 #### Cons
 
-* Often means the hosting needs to be cheaper than hiring a dev to run the project for you.
+* Self hosting works well enough for many
+* Being libre, your project is likely to be hosted by Google Fonts
+* Often means the hosting needs to be cheaper than hiring a dev to run the project for you
 * “Two tiers” of product support can make free users unhappy
 
 #### Case Studies
@@ -336,7 +362,10 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Copyleft + paid license
 
-*Companies selling proprietary software prefer to include permissively licensed code (such as MIT or Apache 2.0) rather than copyleft licensed code (like the GPL) in their software, because the latter requires them to keep the same copyleft terms for their end products. So, some open source projects use a copyleft license by default, but they sell license exceptions, proprietary licenses, or permissive commercial licenses to companies who want to bypass the copyleft requirements.*
+In the software domain, since the GPL would require developers to make their entire program libre, many developers avoid GPL code but are happy to use non-copyleft code (such as MIT or Apache 2.0) in their proprietary software. 
+So, some libre projects use a copyleft license by default, but they sell "additional permissions," permissive licenses, or even proprietary licenses, to those developers who want to bypass copyleft requirements.
+
+The OFL doesn't require users to make their entire documents libre, so this is only possible with GPL fonts.
 
 #### Pros
 
@@ -345,10 +374,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 #### Cons
 
-* Can be at odds with making software freely accessible
+* At odds with making fonts truly freely accessible
 * Project needs to be big enough that customer need exists
-* Only works for upstream software that's being used in downstream software
-* There can be legal or monetary barriers to moving code from open to proprietary 
+* Only works for GPL fonts
 
 #### Case Studies
 
@@ -359,7 +387,7 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Open core
 
-*Under an [open core](https://en.wikipedia.org/wiki/Open_core) model, some aspects of the project are free, but other features are proprietary and available only to paid users. Usually this works when there is enterprise demand for the project.*
+Under an [open core](https://en.wikipedia.org/wiki/Open_core) model, some styles of the family are libre, but others are proprietary and available only to paying users.
 
 #### Pros
 
@@ -367,10 +395,10 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * Can scale well if successful
 
 #### Cons
-* Need to have something you can charge for (which means making certain features exclusive)
-* Can be at odds with making software freely accessible
+
+* At odds with making fonts freely accessible
 * “Two tiers” of product support can make free users unhappy
-* May require a CLA (Contributor License Agreement) in order to accept code submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
+* May require a CLA (Contributor License Agreement) in order to accept source submissions from outside contributors while retaining the ability to relicense those submissions under the proprietary license
 
 #### Case Studies
 
@@ -384,7 +412,12 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Foundations & consortiums
 
-*A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations. Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project. In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium). Many software foundations are 501(c)(6) because 501(c)(3) require demonstrating a charitable purpose, which can be more difficult in software.*
+*Not a revenue model, more a tax optimization*
+
+A [foundation](https://en.wikipedia.org/wiki/Foundation_(nonprofit)) is a legal entity that can accept and/or disburse donations.
+Because their purpose is not to make profits, they can be a great choice to signal neutrality and steward a project.
+In the US, foundations are either 501(c)(3) (nonprofit) or 501(c)(6) (trade consortium).
+Many software foundations are 501(c)(6) because 501(c)(3) require demonstrating a charitable purpose, which can be more difficult in software.
 
 #### Pros
 
@@ -408,9 +441,14 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Venture capital
 
-*Venture capital is a form of funding for high growth businesses. Unlike a bank loan or other forms of debt financing, venture capitalists take equity (a percent ownership in your business) in exchange for funding. Unlike taking out a loan, you don't have to repay your creditors if your business tanks. If you do succeed, however, you should expect to return capital to your investor at a multiple.*
+*Not a revenue model*
 
-*Venture capital is "high risk high reward": VCs are more risk tolerant than banks, but they also expect a large payoff if you are successful. If you plan on raising venture capital, you should set up a business entity structured as a C Corp, preferably in Delaware. If you're unfamiliar with the venture capital process, the best place to start is by reaching out to similar founders who have successfully raised venture.*
+Venture capital is a form of funding for high growth businesses.
+Unlike a bank loan or other forms of debt financing, venture capitalists take equity (a percent ownership in your business) in exchange for funding.
+Unlike taking out a loan, you don't have to repay your creditors if your business tanks.
+If you do succeed, however, you should expect to return capital to your investor at a multiple.*
+
+Venture capital is "high risk high reward": VCs are more risk tolerant than banks, but they also expect a large payoff if you are successful. If you plan on raising venture capital, you should set up a business entity structured as a C Corp, preferably in Delaware. If you're unfamiliar with the venture capital process, the best place to start is by reaching out to similar founders who have successfully raised venture.
 
 #### Pros
 
@@ -432,7 +470,9 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 
 ## Restricted license
 
-*Restricted licenses (reminiscent of the older [shareware](https://en.wikipedia.org/wiki/Shareware) movement) are **not open source** because they do not meet [the definition](https://en.wikipedia.org/wiki/The_Open_Source_Definition) of an open source license. The source code is made available (either publicly, or to customers who pay for a license), but they may limit the freedoms to redistribute and modify or to use the software commercially.*
+Restricted licenses are **not libre** because they do not meet [the definition](https://freedomdefined.org/Definition) of a free cultural works.
+The source files may or may not be made available (either publicly, or to customers who pay for a license).
+The license limits the freedoms to redistribute and modify or to use the fonts commercially.
 
 #### Pros
 
@@ -451,16 +491,3 @@ TRANSLATIONS: [Traditional Chinese(繁體中文)](https://github.com/jserv/lemon
 * [License Zero](https://medium.com/licensezero/the-license-zero-manifesto-fecb7aaf4c0a)
 * [Redis Commons Clause](https://redislabs.com/community/licenses/)
 * [Ungit switched back from Faircode to MIT License](https://github.com/FredrikNoren/ungit/issues/997)
-
-
----
-
-### Contributing to this guide
-
-I wrote up this guide to aggregate my own knowledge. I recognize the pros/cons are somewhat subjective, but they reflect my views. If you submit changes, I may consider them but do not intend to cover everyone's viewpoints.
-
-If something is factually incorrect (especially with a case study example), I welcome your edits. Also, if there's a category you know of that I missed, I would also welcome that addition.
-
-### License and attribution
-
-This guide is available under the Creative Commons CC0 1.0 License, meaning you are free to use it for any purpose, commercial or non-commercial, without any attribution back to me (public domain). If you do use it, I'd love to hear about it! (Find me here: [@nayafia](http://twitter.com/nayafia)) But you are in no way required to do so.
