@@ -1,11 +1,14 @@
-# A handy guide to financial support for open source.
-*"I do open source work, how do I find funding?"*
+# Commercial Development of Libre Fonts
+*"I want to design type full-time, how do I earn a living while making my work libre?"*
 
-This document aims to provide an exhaustive list of all the ways that people get paid for open source work. Hopefully, projects and contributors will find this helpful in figuring out the best options for them.
+This document aims to provide an exhaustive list of all the ways that people can get paid for developing libre fonts.
+Hopefully, other projects and contributors will find this helpful in figuring out the best options for them.
 
-The list below is roughly ordered from small to large. Each funding category links to several real examples (using topical articles or pages wherever possible instead of just a project's homepage.)
+Any project might involve several kinds of funding categories. 
+The list below is roughly ordered from small to large.
+Each funding category links to several real examples, usually from the software domain (using topical articles or pages wherever possible instead of just a project's homepage.)
 
-The categories are not mutually exclusive. For example, a project might have a foundation but also use crowdfunding to raise money. Someone else might do consulting and also have a donation button. Etc. 
+This document began as a fork of <https://github.com/nayafia/lemonade-stand>
 
 
 ---
