@@ -143,7 +143,7 @@ Those who use your work regularly and are eager to see updates (including both i
 ## Books and merchandise
 
 Self-publishing is easier than ever, and those interested in your work may like to purchase books about it.
-There is even mass-market appearl for books about type, if they make good gifts.
+There is even mass-market appeal for books about type, if they make good gifts.
 
 In addition to selling books, you can sell merchandise (T-shirts, hoodies, mugs.)
 
