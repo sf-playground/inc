@@ -3,9 +3,13 @@
 
 ## Communities
 * [Forum · Sustain – sustainability of open source software](https://discourse.sustainoss.org/)
+* [Social Media · Mastodon instance in a social context](https://social.coop/about)
+
 
 ## Business side of open source
 * [Report · Business Value of Open Source for Financial Services Firms](https://web.archive.org/web/20190214100854/https://www.finos.org/hubfs/whitepapers/FINOS-business-value-of-open-source.pdf)
+* [Video · Lecture about alternative business decissions for Premium Cola](https://www.youtube.com/watch?time_continue=462&v=WwdBB-4i3Jk)
+* [Website · decentralized decision making](https://www.loomio.org/)
 
 ## Fundraising
 * [Archive · AdBard – ad platform for open source projects](https://lwn.net/Articles/335776/)
